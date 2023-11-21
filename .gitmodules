@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "phonTools"]
 	path = phonTools
-	url = https://github.com/cran/phonTools
+	url = https://github.com/santiagobarreda/phontools
